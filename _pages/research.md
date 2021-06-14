@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research summary (lead-author postdoc publications in comp-bio)"
+title: "Research summary (lead-author postdoc publications in comp bio)"
 permalink: /research/
 author_profile: true
 ---
