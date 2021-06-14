@@ -27,7 +27,7 @@ Professional Development (Courses/Workshops)
 * Workshop on <i>Computational Approaches to Memory & Plasticity</i> (CAMP), NCBS, Bengaluru (2016)
 * <i>STEM Workshop on Research-Based Pedagogy Tools for Undergraduate Science Education</i> organized by British Council, IISER, Pune (2016)
 * <i>Annual Science Journalism Workshop</i>, NCBS, Bengaluru (2015)
-* <i>Brain Connectivity Workshop</i>, Charite' Universit ̈atsmedizin, Berlin (2010)
+* <i>Brain Connectivity Workshop</i>, Charit&eacute; Universit&auml;tsmedizin, Berlin (2010)
 * <i>Workshop on Development & Evolution of Nervous Systems</i>, International Centre for Theoretical Physics, Trieste (2008)
 * <i>Summer School in Cosmology & Astroparticle Physics</i>, International Centre for Theoretical Physics, Trieste (2006)
 
