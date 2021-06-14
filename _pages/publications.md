@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Selected Postdoc Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -24,4 +24,4 @@ author_profile: true
 
 4. <b>G Mahajan</b> and SC Mande (2015) "From system-wide differential gene expression to perturbed regulatory factors: a combinatorial approach." <i>PLoS ONE</i> 10(11):e0142147. [Link](https://doi.org/10.1371/journal.pone.0142147)
 
-Complete list of papers may be accessed [here](https://scholar.google.com/citations?user=HDocbMsAAAAJ&hl=en)
+Complete list of publications may be accessed [here](https://scholar.google.com/citations?user=HDocbMsAAAAJ&hl=en)
