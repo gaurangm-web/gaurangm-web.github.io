@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Gaurang Mahajan"
 title_separator          : "-"
-name                     : &name "Gaurang"
+name                     : &name "Gaurang Mahajan"
 description              : &description " "
 url                      : https://gaurangm-web.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
