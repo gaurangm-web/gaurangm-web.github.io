@@ -27,12 +27,12 @@ Professional Development (Courses/Workshops)
 * Workshop on <i>Computational Approaches to Memory & Plasticity</i> (CAMP), NCBS, Bengaluru (2016)
 * <i>STEM Workshop on Research-Based Pedagogy Tools for Undergraduate Science Education</i> organized by British Council, IISER, Pune (2016)
 * <i>Annual Science Journalism Workshop</i>, NCBS, Bengaluru (2015)
-* <i>Brain Connectivity Workshop</i>, Charit ́e Universit ̈atsmedizin, Berlin (2010)
+* <i>Brain Connectivity Workshop</i>, Charite' Universit ̈atsmedizin, Berlin (2010)
 * <i>Workshop on Development & Evolution of Nervous Systems</i>, International Centre for Theoretical Physics, Trieste (2008)
 * <i>Summer School in Cosmology & Astroparticle Physics</i>, International Centre for Theoretical Physics, Trieste (2006)
 
 Research Grants
 ======
-* <i>National Postdoctoral Fellowship</i> in Life Sciences awarded by SERB-DST (2018-2020)
+* <i>National Postdoctoral Fellowship</i> in Life Sciences awarded by SERB-DST, India (2018-2020)
 * <i>Dr. Shyama Prasad Mukherjee Research Fellowship</i> awarded by CSIR-India to pursue PhD in physics (2005-09)\
 (This is a competitive, selection-based fellowship awarded to top-ranking candidates in the All-India UGC/CSIR National Eligibility Test)
