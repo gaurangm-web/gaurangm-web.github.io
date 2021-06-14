@@ -19,7 +19,7 @@ Education
 Post-doc Research Experience
 ======
 * 2012-2015: Postdoctoral Research Associate at National Centre for Cell Science, Pune, India
-  * Research area: Bioinformatics/systems biology (Computational analysis of molecular interaction data)
+  * Research area: Bioinformatics/systems biology (Computational analysis of gene regulation and protein interaction networks)
   * PI: Dr. Shekhar Mande
 
 * 2015-2020: Postdoctoral Research Fellow at Indian Institute of Science Education and Research, Pune
