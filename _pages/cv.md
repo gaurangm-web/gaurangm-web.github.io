@@ -22,7 +22,7 @@ Post-doc Research Experience
   * Research area: Bioinformatics/systems biology (Computational analysis of gene regulation and protein interaction networks)
   * PI: Dr. Shekhar Mande
 
-* 2015-2020: Postdoctoral Research Fellow at Indian Institute of Science Education and Research, Pune
+* 2016-2020: Postdoctoral Research Fellow at Indian Institute of Science Education and Research, Pune
   * SERB-DST National Postdoctoral Fellow (Life Sciences) during 2018-20
   * Research area: Neurobiology (Studies of synaptic transmission dynamics using biophysically-grounded computational models)
   * PI: Prof. Suhita Nadkarni
