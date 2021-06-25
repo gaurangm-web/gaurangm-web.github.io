@@ -20,7 +20,7 @@ author_profile: true
 2. <b>G Mahajan</b> and S Nadkarni (2019) "Intracellular calcium stores mediate metaplasticity at hippocampal dendritic spines." <i>The Journal of Physiology</i> 597, 13:3473-3502. [Link](https://doi.org/10.1113/JP277726) \
 (Among the top 10% most downloaded papers in The Journal of Physiology in 2018-2019)
 
-3. <b>G Mahajan</b> and SC Mande (2017) "Using structural knowledge in the Protein Data Bank to inform the search for potential host-microbe protein interactions in sequence space: application to Mycobacterium tuberculosis." <i>BMC Bioinformatics</i> 18:201. [Link](https://doi.org/10.1186/s12859-017-1550-y)
+3. <b>G Mahajan</b> and SC Mande (2017) "Using structural knowledge in the Protein Data Bank to inform the search for potential host-microbe protein interactions in sequence space: application to <i>Mycobacterium tuberculosis</i>." <i>BMC Bioinformatics</i> 18:201. [Link](https://doi.org/10.1186/s12859-017-1550-y)
 
 4. <b>G Mahajan</b> and SC Mande (2015) "From system-wide differential gene expression to perturbed regulatory factors: a combinatorial approach." <i>PLoS ONE</i> 10(11):e0142147. [Paper](https://doi.org/10.1371/journal.pone.0142147),[Web-tool](https://share.streamlit.io/gaurangm-web/streamlit_apps/main/altered_tf_activity.py)
 
