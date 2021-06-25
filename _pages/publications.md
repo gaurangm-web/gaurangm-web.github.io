@@ -22,6 +22,6 @@ author_profile: true
 
 3. <b>G Mahajan</b> and SC Mande (2017) "Using structural knowledge in the Protein Data Bank to inform the search for potential host-microbe protein interactions in sequence space: application to Mycobacterium tuberculosis." <i>BMC Bioinformatics</i> 18:201. [Link](https://doi.org/10.1186/s12859-017-1550-y)
 
-4. <b>G Mahajan</b> and SC Mande (2015) "From system-wide differential gene expression to perturbed regulatory factors: a combinatorial approach." <i>PLoS ONE</i> 10(11):e0142147. [Paper](https://doi.org/10.1371/journal.pone.0142147),[Web-based tool](https://share.streamlit.io/gaurangm-web/streamlit_apps/main/altered_tf_activity.py)
+4. <b>G Mahajan</b> and SC Mande (2015) "From system-wide differential gene expression to perturbed regulatory factors: a combinatorial approach." <i>PLoS ONE</i> 10(11):e0142147. [Paper](https://doi.org/10.1371/journal.pone.0142147),[Web-tool](https://share.streamlit.io/gaurangm-web/streamlit_apps/main/altered_tf_activity.py)
 
 Complete list of publications may be accessed [here](https://scholar.google.com/citations?user=HDocbMsAAAAJ&hl=en)
