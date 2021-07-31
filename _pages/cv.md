@@ -32,6 +32,6 @@ Scientific Computing Skills
 * Programming: Python, Matlab/Octave, C/C++
 * Biological data analytics: R/Bioconductor
 * Math modeling/simulations: Neuron, MCell, NEST, NetLogo
-* ML: Scikit-learn, Rstats
+* ML: Scikit-learn, PyTorch, R/caret
 
 
