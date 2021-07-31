@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gaurang Mahajan"
-  avatar           : "profile.png"
+  avatar           : "photo.jpg" #"profile.png"
   bio              : "Research in neuroscience/comp bio"
   location         : "Pune, India"
   employer         :
