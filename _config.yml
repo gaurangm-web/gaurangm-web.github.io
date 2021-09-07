@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/gaurang-mahajan-a34ba089/"
-  orcid            : "https://orcid.org/0000-0002-6583-6269"
+  orcid            : # "https://orcid.org/0000-0002-6583-6269"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
